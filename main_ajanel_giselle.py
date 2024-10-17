@@ -1,8 +1,8 @@
-# ITP 115, Spring 2023
+
 # Final Project
 # Name: Giselle
-# Email: ajanel@usc.edu
-# Section: TacoCat
+
+
 # Filename: main_ajanel_giselle.py (update accordingly)
 # Description: This file calls functions in helper.py file as well as the user_io.py file.
 
