@@ -1,8 +1,7 @@
-# ITP 115, Spring 2023
+
 # Final Project
 # Name: Giselle Ajanel
-# Email: ajanel@usc.edu
-# Section: TacoCat
+
 # Filename: user_io.py
 # Description: This file  will define functions that interface with the user.
 
