@@ -1,8 +1,7 @@
-# ITP 115, Spring 2023
+
 # Final Project
 # Name: Giselle Ajanel
-# Email: ajanel@usc.edu
-# Section: TacoCat
+
 # Filename: helper.py
 # Description: This file will define functions that will be called from other Python files.
 
